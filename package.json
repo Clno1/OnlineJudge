@@ -1,0 +1,18 @@
+{
+  "main":"https://localhost:44334/",
+  "name": "OJ",
+  "window": {
+    "title": "OJ",
+    "icon": "assest/img/logo.png",
+    "toolbar": true,
+    "width": 1280,
+    "height": 800,
+    "min_width": 400,
+    "min_height": 200
+  },
+  "webkit": {
+    "plugin": true,
+    "java": false,
+    "page-cache": false
+  }
+}
